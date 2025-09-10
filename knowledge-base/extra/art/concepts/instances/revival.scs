@@ -1,0 +1,6 @@
+revival
+<- concept_art_movement;
+=> nrel_main_idtf:
+    [Возрождение](* <- lang_ru;; *);
+=> nrel_main_idtf:
+    [Revival](* <- lang_en;; *);;

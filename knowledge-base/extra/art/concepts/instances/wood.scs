@@ -1,0 +1,6 @@
+wood
+<- concept_material;
+=> nrel_main_idtf:
+    [Дерево](* <- lang_ru;; *);
+=> nrel_main_idtf:
+    [Wood](* <- lang_en;; *);;
